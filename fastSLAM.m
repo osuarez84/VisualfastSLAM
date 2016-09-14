@@ -1,4 +1,4 @@
-function fastSLAM_OMAR(stereoParams)
+function fastSLAM(stereoParams)
 % Cargamos las variables de configuración
 configfile;
 
